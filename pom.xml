@@ -15,20 +15,12 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- my start -->
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 			<version>4.3.9.RELEASE</version>
 		</dependency>
-		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.5.5</version>
-		</dependency>
-
-		<!-- my end -->
 
 	</dependencies>
 	<build>
